@@ -21,8 +21,11 @@
 }
 
 @media (max-width:768px) {
-  .aside { text-align: center;
+
+  .aside { 
+    text-align: center;
   }
+
 }
 
 .main {
