@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.aside .link{
+.aside .link {
   font-family: fantasy, cursive;
 }
 
@@ -43,16 +43,19 @@
   display: flex;
 }
 
-.list{
+.list {
   margin: 0;
   padding: 0px;
 }
 
-.task, .h3 {
+.task,
+.h3 {
   list-style: none;
 }
 
-.input-task,.button,.checkbox{
+.input-task,
+.button,
+.checkbox {
   outline: none;
 }
 
