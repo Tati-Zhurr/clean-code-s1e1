@@ -35,7 +35,7 @@
 }
 
 .input-task,
-.label-task {
+.label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -131,7 +131,7 @@
   margin: 0 10px;
 }
 
-.label-task {
+.label {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
@@ -153,7 +153,7 @@
 }
 
 /* Completed */
-.completed__label-task{
+.completed__label {
   text-decoration: line-through;
   color: #888;
 }
@@ -169,6 +169,6 @@
   width: 224px;
 }
 
-.label-task_edit {
+.label_edit {
   display: none;
 }
