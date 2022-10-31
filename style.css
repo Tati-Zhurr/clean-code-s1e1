@@ -123,7 +123,11 @@
   align-items: center;
 }
 
-.task > * {
+.checkbox,
+.label,
+.input-task,
+.todo__button,
+.completed__button {
   vertical-align: middle;
 }
 
